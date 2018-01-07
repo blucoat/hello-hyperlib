@@ -26,5 +26,9 @@
   <property file="${user.home}/wpilib/java/${version}/ant/build.properties"/>
 
   <import file="${wpilib.ant.dir}/build.xml"/>
+	
+  <import file="${wpilib.ant.dir}/build.xml"/>
+  <import file="hyperlib/ant/robot_inspector.xml" />
 
+  <target name="deploy" depends="inspect,athena-project-build.deploy" />
 </project>

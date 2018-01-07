@@ -1,0 +1,3 @@
+[submodule "hyperlib"]
+	path = hyperlib
+	url = https://github.com/teamhyper/hyperlib

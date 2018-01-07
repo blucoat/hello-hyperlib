@@ -1,4 +1,8 @@
 # hello-hyperlib
+This is a quick-start you can clone to start a HYPERLib project.  It is set up to reference HYPERLib as a submodule (the way we do it for hypercode builds).  Other than that, it is as blank as can be.
+
+The rest of this readme is a bit dated, but here it is (I will migrate this somewhere else later):
+
 Simple project demonstrating how to use HYPERLib.  This is the code that I walked everyone through in the meeting on 6/1/17.  You can clone this repo straight into eclipse if you want to play with it.
 
 Here's how it's layed out:
